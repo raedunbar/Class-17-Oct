@@ -1,0 +1,16 @@
+---
+title: "Class 17 Oct 2022"
+author: "Rae Dunbar"
+date: "10/17/2022"
+output: html_document
+---
+
+## Set things up
+
+```{r}
+rm(list=ls())
+library(ggplot2)
+library(ggplot2)
+library(dplyr)
+```
+
