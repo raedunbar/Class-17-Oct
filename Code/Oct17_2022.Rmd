@@ -14,3 +14,16 @@ library(ggplot2)
 library(dplyr)
 ```
 
+Ready for action
+
+now look at some built in data, that comes with R. 
+
+```{r}
+View(cars)
+```
+
+```{r}
+
+```
+
+
