@@ -30,4 +30,10 @@ View(cars)
 #testing testing
 ```
 
+```{r}
+install.packages( "gitcreds" )
+gitcreds::gitcreds_set()
+```
+
+
 
